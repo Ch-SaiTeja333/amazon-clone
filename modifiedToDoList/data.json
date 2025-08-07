@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "9717",
+      "username": "Sai-Teja",
+      "email": "saiteja@gmail.com",
+      "dob": "2025-07-04",
+      "phnno": "8746755441"
+    },
+    {
+      "id": "b103",
+      "username": "vijay",
+      "email": "vijay@gmail.com",
+      "dob": "2025-07-03",
+      "phnno": "8794561235"
+    },
+    {
+      "id": "41c3",
+      "username": "Kavya",
+      "email": "prabhas@pvpsit.in",
+      "dob": "2025-03-19",
+      "phnno": "9998887776"
+    },
+    {
+      "id": "8bc1",
+      "username": "ch.sai",
+      "email": "23501a0530@pvpsit.ac.in",
+      "dob": "2025-07-01",
+      "phnno": "9998887776"
+    },
+    {
+      "id": "077d",
+      "username": "karthik",
+      "email": "karthik@gmail.com",
+      "dob": "2025-07-30",
+      "phnno": "8746755441"
+    }
+  ]
+}
